@@ -1,1 +1,1 @@
-This Python application creates a server head that handles messages received over a network and requests to the Google Places API, demonstrating asynchronous communication and message handling between servers and clients.
+This Python application creates a server herd that handles messages received over a network and requests to the Google Places API, demonstrating asynchronous communication and message handling between servers and clients.
